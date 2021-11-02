@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.poke{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.childpoke{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #199500;
+}
+.childpoke p{
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: 'poppins';
+    color: white;
+}
+img{
+    width: 10rem;
+}
